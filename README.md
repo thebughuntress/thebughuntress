@@ -1,5 +1,5 @@
 ### Hi there 👋
-I like coffe ☕, you can send me one [here](https://www.buymeacoffee.com/antoniaalicefrey).  <br/>
+I like coffe ☕, you can send me one [here](https://www.buymeacoffee.com/antoniafrey).  <br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
