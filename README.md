@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[I like coffe ☕, you can send me one here](https://www.buymeacoffee.com/antoniaalicefrey)
+
 
 <!--
 **thisisfrey/thisisfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
