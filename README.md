@@ -1,10 +1,7 @@
 ### Hi there 👋
 _A supporter is worth a thousand followers._  <br/>I like coffee ☕, you can send me one [here](https://www.buymeacoffee.com/antoniafrey)!  <br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&layout=compact&exclude_repo=AltaCV,CV)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&exclude_repo=AltaCV,CV)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&exclude_repo=AltaCV,CV&layout=compact)
 
 
 <!--
