@@ -1,11 +1,11 @@
 ### Hi there 👋
 _A supporter is worth a thousand followers._  <br/>I like coffee ☕, you can send me one [here](https://www.buymeacoffee.com/antoniafrey)!  <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisfrey&exclude_repo=AltaCV,CV&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisalicee&exclude_repo=AltaCV,CV&layout=compact)
 
 
 <!--
-**thisisfrey/thisisfrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisisalicee/thisisalicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
