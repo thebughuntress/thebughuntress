@@ -3,6 +3,7 @@ _A supporter is worth a thousand followers._  <br/>I like coffee ☕, you can se
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebughuntress&exclude_repo=AltaCV,CV&layout=compact)
 
+As you can tell, I enjoy automating with Python, web development, and using LaTeX for everything.
 
 <!--
 **thisisalicee/thisisalicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
